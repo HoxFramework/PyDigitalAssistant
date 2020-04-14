@@ -1,0 +1,49 @@
+﻿
+COMMANDS LIST
+______________
+#List of regular commands/Lista obicnih komandi:
+	#start facebook
+	#send email  (make sure you allowed 'alternative sources' on sender's account)
+	#start youtube
+	#start messenger
+	#bitcoin value in usd-or-current bitcoin price in usd
+	#start vivaldi
+	#glup si
+	#open vivaldi -open vivaldi.exe browser
+	#say wanker
+	#wikipedia *famous person*
+	#what is *anything*
+	#*maths stuff 2+2 and others*
+	#movie up rating (gets you PG or not for movie UP)
+	#play *author and song/song*
+	#who made this program
+	#how do you feel
+	#my ip 
+	#help (for help)\n...and more.")
+	#search google (just a regular google search but trough the redline)
+	#what is the capital of * 
+	#who is the president of *
+
+
+#there is also few more secret commands/Lista tajnih komandi:
+    #*ip* - dobiti cete hostname i lokaciju ip-a,ne precizno vec ime grada
+    #hackmix - for a great programming mix
+    #scrape ip  - for scraping ips of websites
+    #scrape email - for scraping emails of websites
+    #scrape instagram - Not really a scraper, it gets an instagram profile pic (of locked or unlocked profiles) in full quality.
+    #port scanner - scans a port 
+    #cypherpunk -for simple encryption technique by HoX
+	-cypherpunk encryption keys: 5wub,730d,4wox,haw7,oqua,xopn,3xxw,10l1,0xmw,wads
+    #scrape phones - scrapes phones off the webpage.All of them. Its in experimental phase so it might give you some info that isnt a number...But you will get all numbers for sure.
+    #people lookup - people lookup tool
+    #crack md5  -md5 hash cracker
+    #fuzz  -fuzzer 
+    #prox me -proxy
+    #locator - find location of the IP
+
+
+
+
+
+
+

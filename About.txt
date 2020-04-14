@@ -1,0 +1,22 @@
+
+
+REDLINE -the digital assistant made in python.
+
+-Make sure you use windows operating systems and python 3.7
+-Run the installer.bat before you run the program, it will install all the neccesary modules for you, make sure you added PIP to PATH
+-If any installation is failed try installing it manually (it shouldnt fail)
+-To read the list of commands read the commandlist.txt
+-Yes you need internet connection for this program.
+-You can run this program from IDLE or Terminal , no difference. If you are running it from PyCharm or similar, make sure your modules are set up.
+-Browser used is vivaldi so most of commands won't work if you don't have it installed, however for future programs im thinking about leaving that as a user input choice or detecting the browser that's used as defualt. OR you can just use os.system("start <website>")
+-Also the voice pack depends of your windows OS
+-Thank you for using HoX programs, enjoy.
+
+Modules:
+pip install wolframalpha api
+pip install pyttsx3
+pip install regex
+pip install requests
+-and some default ones
+
+------------------------
